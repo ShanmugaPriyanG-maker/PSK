@@ -46,7 +46,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### Output Waveform:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3092c2c1-1f5e-40d1-8186-45e5e05d6d6a" />
+<img width="1190" height="790" alt="dc5-1" src="https://github.com/user-attachments/assets/86b52e6a-d109-463d-a0e5-2d8da01ee824" />
 
 ### QPSK:
 ```
@@ -100,7 +100,7 @@ plt.show()
 ```
 
 ### OUTPUT:
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dc5afcdd-3cd1-4a1c-8d96-c50695d03d14" />
+<img width="989" height="590" alt="dc5-2" src="https://github.com/user-attachments/assets/c3f98a81-457f-497f-8584-ee619970eeb3" />
 
 
 # Results
